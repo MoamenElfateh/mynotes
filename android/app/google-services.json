@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310174965333",
+    "project_id": "mynotes-flutter-project-25",
+    "storage_bucket": "mynotes-flutter-project-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310174965333:android:4f73dc76f50010a7acbedc",
+        "android_client_info": {
+          "package_name": "com.making.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYG3C2Rq7ewYNiCh5TCkAHc-tyVUqxKzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
